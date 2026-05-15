@@ -6,5 +6,3 @@ buildCommand = "npm run build"
 startCommand = "npm start"
 restartPolicyType = "ON_FAILURE"
 
-[env]
-NODE_ENV = "production"
