@@ -1,4 +1,4 @@
-# WorkSpan — Crew Operations Hub
+# Manish Tasking Portal — Crew Operations Hub
 
 A distinctive team operations platform built with Next.js. WorkSpan helps crews assign work lanes, track momentum, handle extension requests, and stay aligned — with separate views for leads and contributors.
 
